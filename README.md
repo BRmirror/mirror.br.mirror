@@ -6,6 +6,8 @@
 
 ### POST : /{PUBLIC_KEY}/create
 
+### POST : /{PUBLIC_KEY}/all
+
 ### GET : /{ID}/log
 
 ### GET : /{ID}/show
